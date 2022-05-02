@@ -27,3 +27,6 @@ Install the required packages by executing the following command.
 
 ## Interface and sample output
 ![InterfaceOutput](https://user-images.githubusercontent.com/101693218/166213690-5f0b8078-c7d7-4300-b728-fd8b3109ca52.png)
+
+## Credits
+CSGE601020 - Foundations of Programming 1, Faculty of Computer Science, Universitas Indonesia, 2021
