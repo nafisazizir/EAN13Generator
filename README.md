@@ -15,7 +15,7 @@ Install the required packages by executing the following command.
 
 ### Files
 - ```main.py``` : main program to execute EAN 13 Barcode Generator
-- ```documentation.pdf``` : complete documentation and the algorithm of EAN 13 Barcode
+- ```documentation.md``` : complete documentation and the algorithm of EAN 13 Barcode
 
 ## Deploy demo
 1. Download prequisites, procedure is in **Dependencies** section
